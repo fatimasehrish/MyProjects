@@ -14,7 +14,7 @@ export default function App() {
 
       <View style={{flex:0.6,backgroundColor:'brown',alignItems:'center',justifyContent:'center'}}>
       <Text style={{backgroundColor:'yellow',marginBottom:'10',fontSize:'12',fontStyle:'normal'}}>LOGIN</Text>
-      <TextInput style={{width:'10',height:'10',backgroundColor:'white',marginBottom:'14'}}></TextInput>
+      <TextInput style={{width:'30',height:'10',backgroundColor:'white',marginBottom:'14'}}></TextInput>
       <TextInput style={{width:'10',height:'10',backgroundColor:'green',marginBottom:'14'}}></TextInput>
       </View>
 
